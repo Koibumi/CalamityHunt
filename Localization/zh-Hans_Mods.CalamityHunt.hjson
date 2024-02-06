@@ -248,7 +248,7 @@ Items: {
 	}
 
 	Parasanguine: {
-		DisplayName: 赤血阳伞
+		DisplayName: 赤血凝伞
 		Tooltip:
 			'''
 			按住<left>或攻击敌人会积攒额外的血液
